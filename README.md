@@ -138,40 +138,39 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Support
 For support and issues, please create a ticket in our issue tracker.
 
-## Screenshots
-
 ### 1. Admin Portal
 This image shows the **Admin Portal** where you can manage users and service requests.
 
-![Admin Portal](file:///Users/shura/Django%20Bynry/gas_utility/Pngs/Admin%20Portal.png)
+![Admin Portal](Pngs/Admin%20Portal.png)
 
 ### 2. Login Portal
 Here, the **Login Portal** is shown where users can log in to their accounts.
 
-![Login Portal](file:///Users/shura/Django%20Bynry/gas_utility/Pngs/login.png)
+![Login Portal](Pngs/login.png)
 
 ### 3. Adding Service Type
 This screenshot demonstrates that you can add a service type for each user.
 
-![Adding Service Type](file:///Users/shura/Django%20Bynry/gas_utility/Pngs/progress.png)
+![Adding Service Type](Pngs/progress.png)
 
 ### 4. Service Progress
 This image shows the interface where you can select the progress of the service request.
 
-![Service Progress](file:///Users/shura/Django%20Bynry/gas_utility/Pngs/progress.png)
+![Service Progress](Pngs/progress.png)
 
 ### 5. Running the Server
 This screenshot shows the **python manage.py runserver** command and the server being up.
 
-![Run Server](file:///Users/shura/Django%20Bynry/gas_utility/Pngs/runserver.png)
+![Run Server](Pngs/runserver.png)
 
 ### 6. Service Request Portal
 This image demonstrates the **Complete Service Request Portal**.
 
-![Service Request Portal](file:///Users/shura/Django%20Bynry/gas_utility/Pngs/service%20request.png)
+![Service Request Portal](Pngs/service%20request.png)
 
 ### 7. User Creation
 Finally, this shows how you can create a new user in the portal.
 
-![User Creation](file:///Users/shura/Django%20Bynry/gas_utility/Pngs/user%20creation.png)
+![User Creation](Pngs/user_creation.png)
+
 
