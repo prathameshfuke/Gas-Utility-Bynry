@@ -1,0 +1,9 @@
+{% extends 'base_generic.html' %} {% block content %}
+<h2>User Profile</h2>
+
+<form method="POST">
+    {% csrf_token %} {{ form.as_p }}
+    <!-- Render the profile form -->
+    <button type="submit" class="btn btn-primary">Update Profile</button>
+</form>
+{% endblock %}

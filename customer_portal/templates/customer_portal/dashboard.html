@@ -1,0 +1,21 @@
+{% extends "base.html" %} {% block title %} Dashboard - My Django App {%
+endblock %} {% block content %}
+<div class="dashboard">
+    <h1>Welcome to the Dashboard</h1>
+    <p>Hello, {{ user.username }}! Here's your dashboard overview.</p>
+
+    <div class="dashboard-section">
+        <h3>Notifications</h3>
+        <p>You have no new notifications.</p>
+    </div>
+
+    <div class="dashboard-actions">
+        <a href="{% url 'customer_portal:profile' %}" class="btn"
+            >View Profile</a
+        >
+        <a href="{% url 'customer_portal:service_request_list' %}" class="btn"
+            >View Service Requests</a
+        >
+    </div>
+</div>
+{% endblock %}
