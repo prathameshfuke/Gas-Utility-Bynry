@@ -171,6 +171,5 @@ This image demonstrates the **Complete Service Request Portal**.
 ### 7. User Creation
 Finally, this shows how you can create a new user in the portal.
 
-![User Creation](Pngs/user_creation.png)
-
+![User Creation](Pngs/user%20creation.png)
 
